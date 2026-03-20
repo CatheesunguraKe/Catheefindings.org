@@ -4,9 +4,9 @@
 
 **A blog sharing daily habits, practical tips, and simple steps for better living.**
 
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/catheefindings?color=green)](https://github.com/yourusername/catheefindings)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/catheefindings?color=yellow)](https://github.com/yourusername/catheefindings/issues)
-[![License](https://img.shields.io/badge/license-Personal%20Use-blue)](https://github.com/yourusername/catheefindings/blob/main/README.md)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/CatheesunguraKe/catheefindings?color=green)](https://github.com/CatheesunguraKe/catheefindings)
+[![GitHub Issues](https://img.shields.io/github/issues/CatheesunguraKe/catheefindings?color=yellow)](https://github.com/CatheesunguraKe/catheefindings/issues)
+[![License](https://img.shields.io/badge/license-Personal%20Use-blue)](https://github.com/CatheesunguraKe/catheefindings/blob/main/README.md)
 
 ---
 
@@ -29,9 +29,9 @@ Cathee Findings helps you improve your life one day at a time with actionable ad
 
 ## Blog Posts Included
 
-1. 5 Simple Habits That Can Improve Your Life Starting Today  
-2. How to Stay Motivated Even When You Feel Lazy  
-3. Daily Routine for a Productive Day  
+1. **5 Simple Habits That Can Improve Your Life Starting Today**  
+2. **How to Stay Motivated Even When You Feel Lazy**  
+3. **Daily Routine for a Productive Day**  
 
 ---
 
@@ -46,13 +46,27 @@ Cathee Findings helps you improve your life one day at a time with actionable ad
 **Sidebar and Ads:**  
 ![Sidebar Screenshot](images/sidebar.png)  
 
-> **Tip:** Replace these images with actual screenshots of your site once live.
+---
+
+## Monetization
+
+This site includes ready-to-use ad spaces for Google AdSense. Add your ad code to start displaying ads.
 
 ---
 
-## How to Use
+## License (Personal Use)
 
-1. Clone or download this repository:
+This project is for personal blogging purposes.  
 
-```bash
-git clone https://github.com/yourusername/catheefindings.git
+You are free to:  
+- Use and modify the code for personal use  
+
+You are not allowed to:  
+- Redistribute or sell the content  
+- Claim it as your own  
+
+---
+
+## Contact
+
+Website: [https://catheesungurake.github.io/catheefindings/](https://catheesungurake.github.io/catheefindings/)
